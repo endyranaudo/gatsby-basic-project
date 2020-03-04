@@ -8,7 +8,7 @@ const ContactPage = () => {
         <h1>Contact me</h1>
         <p>
           The best way to contact me is via{" "}
-          <a href="https://twitter.com/endyranaudo" target="_blank">
+          <a href="https://twitter.com/endyranaudo" target="_blank" rel="noopener noreferrer">
             @endyranaudo
           </a>{" "}
           on Twitter!
